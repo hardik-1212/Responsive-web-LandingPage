@@ -17,14 +17,6 @@ A responsive and visually appealing landing page built using **HTML, CSS, and Ja
 - CSS3
 - JavaScript
 
-## 📸 Preview
-
-> Add a screenshot named `screenshot.png` to display it here.
-
-```md
-![Landing Page Screenshot](screenshot.png)
-```
-
 ## 📂 Project Structure
 
 ```
